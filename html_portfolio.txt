@@ -1,0 +1,231 @@
+<div class="carousel">
+                            <!-- list item -->
+                            <div class="list">
+                                <!-- /////// item de carousel 111111111111 -->
+                                <div class="item_carousel">
+                                    <img src="images/slide4.jpeg">
+                                    <!-- content carousel -->
+                                    <div class="content_carousel">
+                                        <!-- author -->
+                                        <div class="author">LUNDEV</div>
+                                        <!-- title carousel -->
+                                        <div class="title_carousel">DESIGN SLIDER</div>
+                                        <!-- topic carousel -->
+                                        <div class="topic">ANIMAL</div>
+                                        <!-- description carousel -->
+                                        <div class="des_carousel">
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, facilis dicta, natus unde officia magnam eos doloribus consequuntur accusantium deleniti deserunt quod numquam adipisci quidem consectetur rem ut tenetur! Distinctio?
+                                        </div>
+                                        <!-- boutton -->
+                                        <div class="buttons_carousel">
+                                            <button>SEE MORE</button>
+                                            <button>SUBCRIBE</button>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- /////// item de carousel 222222222222 -->
+                                <div class="item_carousel">
+                                    <img src="images/slide2.png">
+                                    <!-- content carousel -->
+                                    <div class="content_carousel">
+                                        <!-- author -->
+                                        <div class="author">LUNDEV</div>
+                                        <!-- title carousel -->
+                                        <div class="title_carousel">DESIGN SLIDER</div>
+                                        <!-- topic carousel -->
+                                        <div class="topic">ANIMAL</div>
+                                        <!-- description carousel -->
+                                        <div class="des_carousel">
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, facilis dicta, natus unde officia magnam eos doloribus consequuntur accusantium deleniti deserunt quod numquam adipisci quidem consectetur rem ut tenetur! Distinctio?
+                                        </div>
+                                        <!-- boutton -->
+                                        <div class="buttons_carousel">
+                                            <button>SEE MORE</button>
+                                            <button>SUBCRIBE</button>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- /////// item de carousel 333333333333 -->
+                                <div class="item_carousel">
+                                    <img src="images/slide3.jpeg">
+                                    <!-- content carousel -->
+                                    <div class="content_carousel">
+                                        <!-- author -->
+                                        <div class="author">LUNDEV</div>
+                                        <!-- title carousel -->
+                                        <div class="title_carousel">DESIGN SLIDER</div>
+                                        <!-- topic carousel -->
+                                        <div class="topic">ANIMAL</div>
+                                        <!-- description carousel -->
+                                        <div class="des_carousel">
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, facilis dicta, natus unde officia magnam eos doloribus consequuntur accusantium deleniti deserunt quod numquam adipisci quidem consectetur rem ut tenetur! Distinctio?
+                                        </div>
+                                        <!-- boutton -->
+                                        <div class="buttons_carousel">
+                                            <button>SEE MORE</button>
+                                            <button>SUBCRIBE</button>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- /////// item de carousel 4444444444444 -->
+                                <div class="item_carousel">
+                                    <img src="images/slide5.jpeg">
+                                    <!-- content carousel -->
+                                    <div class="content_carousel">
+                                        <!-- author -->
+                                        <div class="author">LUNDEV</div>
+                                        <!-- title carousel -->
+                                        <div class="title_carousel">DESIGN SLIDER</div>
+                                        <!-- topic carousel -->
+                                        <div class="topic">ANIMAL</div>
+                                        <!-- description carousel -->
+                                        <div class="des_carousel">
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, facilis dicta, natus unde officia magnam eos doloribus consequuntur accusantium deleniti deserunt quod numquam adipisci quidem consectetur rem ut tenetur! Distinctio?
+                                        </div>
+                                        <!-- boutton -->
+                                        <div class="buttons_carousel">
+                                            <button>SEE MORE</button>
+                                            <button>SUBCRIBE</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- // thumbnail -->
+                            <div class="thumbnail">
+                                <!-- // item 2 -->
+                                <div class="item_carousel">
+                                    <!-- image carousel -->
+                                    <img src="images/slide2.png">
+                                    <!-- // content  -->
+                                    <div class="content_carousel">
+                                        <!-- // maintenant title pour carousel -->
+                                        <div class="title_carousel">
+                                            Name Slider
+                                        </div>
+                                        <!-- // pour la description -->
+                                        <div class="des_carousel">
+                                            Description
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- // item 3 -->
+                                <div class="item_carousel">
+                                    <!-- image carousel -->
+                                    <img src="images/slide3.jpeg">
+                                    <!-- // content  -->
+                                    <div class="content_carousel">
+                                        <!-- // maintenant title pour carousel -->
+                                        <div class="title_carousel">
+                                            Name Slider
+                                        </div>
+                                        <!-- // pour la description -->
+                                        <div class="des_carousel">
+                                            Description
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- // item 4 -->
+                                <div class="item_carousel">
+                                    <!-- image carousel -->
+                                    <img src="images/slide5.jpeg">
+                                    <!-- // content  -->
+                                    <div class="content_carousel">
+                                        <!-- // maintenant title pour carousel -->
+                                        <div class="title_carousel">
+                                            Name Slider
+                                        </div>
+                                        <!-- // pour la description -->
+                                        <div class="des_carousel">
+                                            Description
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- // item 1 -->
+                                <div class="item_carousel">
+                                    <!-- image carousel -->
+                                    <img src="images/slide4.jpeg">
+                                    <!-- // content  -->
+                                    <div class="content_carousel">
+                                        <!-- // maintenant title pour carousel -->
+                                        <div class="title_carousel">
+                                            Name Slider
+                                        </div>
+                                        <!-- // pour la description -->
+                                        <div class="des_carousel">
+                                            Description
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- // Arrow -->
+
+                            <div class="arrows">
+                                <button id="prev"><</button>
+                                <button id="next">></button>
+                            </div>
+                            <!-- // time -->
+                            <div class="time"></div>
+
+                        </div>
+
+
+
+
+
+
+
+
+let nextDom = document.getElementById('next');
+let prevDom = document.getElementById('prev');
+let carouselDom = document.querySelector('.carousel');
+let listItemDom = document.querySelector('.carousel .list');
+let thumbnailDom = document.querySelector('.carousel .thumbnail');
+
+nextDom.onclick = function() {
+    showSlider('next');
+}
+
+prevDom.onclick = function() {
+    showSlider('prev');
+}
+
+let timeRunning = 2000;
+let timeAutoNext = 7000;
+let runTimeOut;
+let runAutoRun = setTimeout(()=>{
+    nextDom.click();
+}, timeAutoNext);
+
+                        
+
+function showSlider(type) {
+    let itemSlider = document.querySelectorAll('.carousel .list .item_carousel');
+    let itemThumbnail = document.querySelectorAll('.carousel .thumbnail');
+
+    clearTimeout(runTimeOut);
+    runTimeOut = setTimeout(() => {
+        carouselDom.classList.remove('next');
+        carouselDom.classList.remove('prev');
+    }, timeRunning);
+
+    clearTimeout(runAutoRun);
+    runAutoRun = setTimeout(() => {
+        nextDom.click();
+    }, timeAutoNext);
+
+    if (type === 'next') {
+        listItemDom.appendChild(itemSlider[0]);
+        thumbnailDom.appendChild(itemThumbnail[0]);
+        carouselDom.classList.add('next');
+    } else {
+        let positionLastItem = itemSlider.length - 1;
+        listItemDom.insertBefore(itemSlider[positionLastItem], listItemDom.firstChild);
+        thumbnailDom.insertBefore(itemThumbnail[positionLastItem], thumbnailDom.firstChild);
+        carouselDom.classList.add('prev');
+    }
+}

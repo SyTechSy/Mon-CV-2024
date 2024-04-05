@@ -1,0 +1,128 @@
+@media screen and (max-width: 1040px) {
+
+    .input_focus {
+        width: 100%;
+        min-width: 180px;
+    }
+
+
+}
+
+
+
+@media screen and (max-width: 890px) {
+    
+    /* ///////////////////////// */
+
+    .container_information {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        align-items: center;
+    }
+
+    .content_information {
+        display: block;
+        margin-left: 0px;
+        margin-top: 50px;
+    }
+
+    .double_input {
+        display: block; 
+        align-items: center;
+    }
+
+    .champ_input_margin {
+        margin-left: 0px;
+    }
+    .info_contact_right {
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+
+    .input_focus:not(:placeholder-shown) + .label,
+    .input_focus:focus + .label {
+        color: #ffa500;
+        top: -2px;
+        left: 0;
+        transition: all 0.3s ease-in-out;
+        background: none;
+        font-size: 14px;
+        padding: 0;
+    }
+
+    .champ_input {
+        margin-bottom: 5px;
+    }
+
+    .inpuemail {
+        margin-top: 0px;
+    }
+
+
+        
+
+}
+
+@media screen and (max-width: 380px) {
+
+    .titre_contact h3 {
+        color: #ffffff;
+        letter-spacing: 0.50px;
+        font-weight: 500;
+        font-size: 20px;
+        text-transform: uppercase;
+    }
+
+    .paragraphe_contact p {
+        font-size: 14px;
+    }
+
+    .title_mail {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+
+    .text_mail {
+        font-size: 12px;
+    }
+
+    .text_mail:hover {
+        color: #ffa500;
+        text-decoration: underline;
+    }
+
+    .input_focus {
+        width: 95%;
+        height: 49px;
+        margin: 5px 0px;
+        font-size: 16px;
+        padding-left: 10px;
+    }
+    
+    .input_focus2 {
+        width: 90%;
+        font-size: 16px!important;
+    }
+    
+
+}
+
+@media screen and (max-width: 280px) {
+
+    .titre_contact h3 {
+        color: #ffffff;
+        letter-spacing: 0.50px;
+        font-weight: 500;
+        font-size: 18px;
+        text-transform: uppercase;
+        text-align: center;
+    }
+
+    .paragraphe_contact p {
+        font-size: 10px;
+        text-align: center;
+        line-height: 20px;
+    }
+
+}

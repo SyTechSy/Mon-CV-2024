@@ -1,0 +1,334 @@
+@media screen and (max-width: 1098px) {
+
+    .commentaire {
+        width: 90%;
+    }
+
+}
+
+
+@media screen and (max-width: 776px) {
+    
+
+    .accueil {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .toggle {
+        position: fixed;
+        right: 10px;
+        top: 10px;
+        background-color: #eeeeeeae;
+        border-radius: 5px;
+        padding: 2px 5px;
+        z-index: 1000;
+    }
+
+    .toggle i {
+        font-size: 30px;
+        color: #000;
+        display: block;
+        z-index: 1000;
+    }
+
+    .close {
+        display: block;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+        cursor: pointer;
+    }
+
+    .close i {
+        font-size: 30px;
+        color: #fff;   
+        z-index: 1000; 
+    }
+
+    .paragra {
+        width: 80%;
+        height: 70%;
+        position: relative;
+        top: 10%;
+        left: 0px;
+        margin: 0 auto;
+    }
+
+    .navbar {
+        position: fixed;
+        top: 0;
+        left: -100%;
+        margin: 0 auto;
+        display: flex;
+        justify-content: left;
+        margin-bottom: 10px;
+        z-index: 9999999999999;
+        
+    }
+
+
+
+    .navbar nav {
+        width: 100%;
+        height: 100vh;
+        background-color: #222;
+        /* display: none; */
+        box-shadow: 1px 5px 15px #ffffff54;
+        z-index: 10000;
+    }
+
+    nav ul{
+        display: block;
+        align-items: center;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    nav ul li {
+        margin: 10px;
+        list-style-type: none;
+        padding-bottom: 30px;
+    }
+
+    nav ul li a {
+        text-decoration: none;
+        background: none;
+        padding: 10px 20px 10px 10px;
+        border-radius: 15px;
+        font-size: 16px;
+        color: #fff;
+        transition: all 0.5s;
+        border: none;
+    }
+
+    nav ul li a:hover {
+        background-color: #000000c4;
+    }
+
+    nav ul li a i {
+        font-size: 12px;
+        background-color: #008000;
+        padding: 7px 4px;
+        border-radius: 50%;
+        color: #fff!important;
+        margin-left: 2px;
+        display: none;
+    }
+
+
+    .nav-active {
+        color: #008000;
+        background-color: #000000c4;
+    }
+
+    
+
+    .show_active {
+        left: 0;
+        transition: all 0.3s ease;
+        
+    }
+
+
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+
+    .paragra {
+        width: 70%;
+        height: 60%;
+        position: relative;
+        top: 10%;
+        left: 0px;
+        margin: 0 auto;
+    }
+
+    .titre {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+
+    .jesuis {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+
+    .commentaire {
+        width: 90%;
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+
+    .paragra {
+        width: 70%;
+        height: 75%;
+        position: relative;
+        top: 10%;
+        left: 0px;
+        margin: 0 auto;
+    }
+
+    .titre {
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+
+    .jesuis {
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+
+    .commentaire {
+        width: 90%;
+        font-size: 14px;
+    }
+}
+
+
+@media screen and (max-width: 430px) {
+
+    .paragra {
+        width: 90%;
+        height: 70%;
+        position: relative;
+        top: 10%;
+        left: 0px;
+        margin: 0 auto;
+    }
+
+    .titre {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+
+    .jesuis {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+
+    .commentaire {
+        width: 90%;
+        font-size: 18px;
+    }
+}
+
+
+@media screen and (max-width: 414px) {
+
+    .paragra {
+        width: 90%;
+        height: 70%;
+        position: relative;
+        top: 10%;
+        left: 0px;
+        margin: 0 auto;
+    }
+
+    .titre {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+
+    .jesuis {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+
+    .commentaire {
+        width: 90%;
+        font-size: 18px;
+    }
+
+    .petit_animation {
+        width: 80%;
+        display: flex;
+        align-items: center;
+        margin: 0 auto;
+    }
+}
+
+
+@media screen and (max-width: 391px) {
+
+    .paragra {
+        width: 90%;
+        height: 70%;
+    }
+}
+
+
+@media screen and (max-width: 376px) {
+
+    .paragra {
+        width: 90%;
+        height: 75%;
+        position: relative;
+        top: 10%;
+        left: 0px;
+        margin: 0 auto;
+    }
+
+    .titre {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .jesuis {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+
+    .commentaire {
+        width: 90%;
+        font-size: 12px;
+    }
+
+    .petit_animation {
+        width: 80%;
+        display: flex;
+        align-items: center;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 280px) {
+
+    .paragra {
+        width: 90%;
+        height: 85%;
+        position: relative;
+        top: 10%;
+        left: 0px;
+        margin: 0 auto;
+    }
+
+    .titre {
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+
+    .jesuis {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+
+    .commentaire {
+        width: 90%;
+        font-size: 12px;
+    }
+
+    .petit_animation {
+        width: 80%;
+        display: flex;
+        align-items: center;
+        margin: 0 auto;
+    }
+}
